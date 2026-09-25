@@ -1,0 +1,7 @@
+In python I can use variables and data types.
+
+In python I can use lists, tuples and dictionaries.
+
+In python I can use if else, loops, and user inputs.
+
+In python I can use functions and classes.
